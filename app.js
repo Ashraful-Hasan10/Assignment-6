@@ -1,3 +1,7 @@
+// Features:1.Added a spinner while loading data.
+// 2.Enriched search input: show a message when searched by writing nothing on search-box,
+// show a message if searched result cannot be found.
+
 const imagesArea = document.querySelector('.images');
 const gallery = document.querySelector('.gallery');
 const galleryHeader = document.querySelector('.gallery-header');
